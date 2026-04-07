@@ -1,0 +1,9 @@
+flask
+flask-cors
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+lxml
+mysql-connector-python
+scikit-learn

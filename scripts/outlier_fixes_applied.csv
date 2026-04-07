@@ -1,0 +1,9 @@
+product_id,price_id,scraped_at,old_price,new_price,applied_at,note
+30,47,2026-03-18T15:28:34,362995.0,36299.5,2026-03-18T16:21:30Z,auto-fix: divided by 10 until near median
+31,48,2026-03-18T15:28:34,389990.0,38999.0,2026-03-18T16:21:30Z,auto-fix: divided by 10 until near median
+32,49,2026-03-18T15:28:34,389994.0,38999.4,2026-03-18T16:21:30Z,auto-fix: divided by 10 until near median
+33,50,2026-03-18T15:28:34,559990.0,55999.0,2026-03-18T16:21:30Z,auto-fix: divided by 10 until near median
+34,51,2026-03-18T15:28:34,619995.0,61999.5,2026-03-18T16:21:30Z,auto-fix: divided by 10 until near median
+35,52,2026-03-18T15:28:34,999990.0,99999.0,2026-03-18T16:21:30Z,auto-fix: divided by 10 until near median
+36,53,2026-03-18T15:28:34,1098995.0,109899.5,2026-03-18T16:21:30Z,auto-fix: divided by 10 until near median
+37,54,2026-03-18T15:28:34,2209990.0,220999.0,2026-03-18T16:21:30Z,auto-fix: divided by 10 until near median
