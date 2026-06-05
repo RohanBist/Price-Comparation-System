@@ -20,4 +20,6 @@ A smart web-based application that helps users compare prices of products across
 - **Backend:** (Python)
 - **Other Tools:** Webscrapper
 
+## Demo
 
+https://github.com/user-attachments/assets/00c4d776-3638-4e8d-9b19-0bbb3d7a3484
